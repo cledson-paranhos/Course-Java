@@ -4,6 +4,9 @@
 # Compiled class file
 *.class
 
+course-teste.iml
+Student_Rent.iml
+
 # Log file
 *.log
 
